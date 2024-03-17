@@ -28,7 +28,9 @@ main {
 }
 header {
     text-align: center;
-    margin: auto 2em;
+    margin: auto 4em;
+    background-color: rgb(15, 15, 61);
+    color: white;
 }
 
 section {

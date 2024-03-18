@@ -28,7 +28,7 @@ main {
 }
 header {
     text-align: center;
-    margin: auto 4em;
+    margin: auto 0em;
     background-color: rgb(15, 15, 61);
     color: white;
 }
